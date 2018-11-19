@@ -1,0 +1,32 @@
+_repo: Index-of-The-Project-Gutenberg-Works-of-H-B-Stowe_58301
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stowe, Harriet Beecher
+    aliases:
+    - Stowe, H. B. (Harriet Beecher)
+    - Stowe, Harriet Elizabeth Beecher
+    - Crowfield, Christopher
+    birthdate: 1811
+    deathdate: 1896
+    gutenberg_agent_id: '115'
+    url: http://www.gutenberg.org/2009/agents/115
+    wikipedia: http://en.wikipedia.org/wiki/Harriet_Beecher_Stowe
+  editor:
+    agent_name: Widger, David
+    birthdate: 1932
+    gutenberg_agent_id: '1961'
+    url: http://www.gutenberg.org/2009/agents/1961
+description: ''
+gutenberg_issued: '2018-11-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58301'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Index of The Project Gutenberg Works of H. B. Stowe
+url: http://www.gutenberg.org/ebooks/58301
